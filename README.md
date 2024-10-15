@@ -1,5 +1,5 @@
 # Conversor de Monedas
-![Etiqueta](https://img.shields.io/badge/API-Conexión%20Externa-blue)
+[![API](https://img.shields.io/badge/API-ExchangeRate--API-blue)](https://www.exchangerate-api.com/)
 ![Etiqueta](https://img.shields.io/badge/Java-21-blue)
 ![Etiqueta](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 ![Etiqueta](https://img.shields.io/badge/License-MIT-yellow)
