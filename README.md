@@ -1,9 +1,10 @@
 # Conversor de Monedas
 [![API](https://img.shields.io/badge/API-ExchangeRate--API-blue)](https://www.exchangerate-api.com/)
-![Etiqueta](https://img.shields.io/badge/Java-21-blue)
-![Etiqueta](https://img.shields.io/badge/Version-1.0.0-brightgreen)
-![Etiqueta](https://img.shields.io/badge/License-MIT-yellow)
-![Etiqueta](https://img.shields.io/badge/Interfaz-GUI%20&%20Consola-orange)
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Interfaz](https://img.shields.io/badge/Interfaz-GUI%20&%20Consola-orange)
+![Swing](https://img.shields.io/badge/GUI-Swing-lightblue)
 
 # Índice
 
