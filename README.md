@@ -1,7 +1,9 @@
 # Conversor de Monedas
+![Etiqueta](https://img.shields.io/badge/API-Conexión%20Externa-blue)
 ![Etiqueta](https://img.shields.io/badge/Java-21-blue)
 ![Etiqueta](https://img.shields.io/badge/Version-1.0.0-brightgreen)
 ![Etiqueta](https://img.shields.io/badge/License-MIT-yellow)
+![Etiqueta](https://img.shields.io/badge/Interfaz-GUI%20&%20Consola-orange)
 
 **Conversor de Monedas** es un programa en Java que permite convertir entre diferentes monedas utilizando tasas de cambio actualizadas. La aplicación puede ejecutarse en la consola y también tiene una interfaz gráfica desarrollada con **JFrame**. Se conecta a una API para obtener tasas de cambio y almacena el historial de conversiones en un archivo **JSON**.
 
