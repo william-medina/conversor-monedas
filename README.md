@@ -5,20 +5,25 @@
 ![Etiqueta](https://img.shields.io/badge/License-MIT-yellow)
 ![Etiqueta](https://img.shields.io/badge/Interfaz-GUI%20&%20Consola-orange)
 
-**Conversor de Monedas** es un programa en Java que permite convertir entre diferentes monedas utilizando tasas de cambio actualizadas. La aplicación puede ejecutarse en la consola y también tiene una interfaz gráfica desarrollada con **JFrame**. Se conecta a una API para obtener tasas de cambio y almacena el historial de conversiones en un archivo **JSON**.
-
 # Índice
 
-1. [Características](#características)
-2. [Tecnologías](#tecnologías)
-3. [API](#api)
-4. [Dependencias](#dependencias)
-5. [Requisitos](#requisitos)
-6. [Instalación](#instalación)
-7. [Uso](#uso)
-8. [Captura de Pantalla de la Interfaz Gráfica](#captura-de-pantalla-de-la-interfaz-gráfica)
-9. [Licencia](#licencia)
-10. [Autor](#autor)
+1. [Descripción](#descripción)
+2. [Características](#características)
+3. [Tecnologías](#tecnologías)
+4. [API](#api)
+5. [Dependencias](#dependencias)
+6. [Requisitos](#requisitos)
+7. [Instalación](#instalación)
+8. [Uso](#uso)
+9. [Captura de Pantalla de la Interfaz Gráfica](#captura-de-pantalla-de-la-interfaz-gráfica)
+10. [Licencia](#licencia)
+11. [Autor](#autor)
+
+## Descripción
+
+**Conversor de Monedas** es una aplicación Java diseñada para facilitar la conversión entre diversas monedas utilizando tasas de cambio actualizadas. La aplicación se conecta a una API externa para obtener tasas de cambio en tiempo real y almacena el historial de conversiones en un archivo **JSON**, lo que permite un acceso fácil y rápido a los datos anteriores. Además, ofrece tanto una interfaz gráfica como un modo de consola para adaptarse a diferentes preferencias de uso.
+
+
 
 ## Características
 
