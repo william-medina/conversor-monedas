@@ -1,0 +1,58 @@
+[
+  {
+    "baseCurrency": "USD",
+    "quoteCurrency": "COP",
+    "baseAmount": 34.0,
+    "exchangeRate": 4237.6484,
+    "convertedAmount": 144080.0456,
+    "date": "13-10-2024 16:26:22"
+  },
+  {
+    "baseCurrency": "USD",
+    "quoteCurrency": "COP",
+    "baseAmount": 345.0,
+    "exchangeRate": 4237.6484,
+    "convertedAmount": 1461988.698,
+    "date": "13-10-2024 16:26:47"
+  },
+  {
+    "baseCurrency": "USD",
+    "quoteCurrency": "EUR",
+    "baseAmount": 12.0,
+    "exchangeRate": 0.9151,
+    "convertedAmount": 10.981200000000001,
+    "date": "14-10-2024 14:20:45"
+  },
+  {
+    "baseCurrency": "USD",
+    "quoteCurrency": "EUR",
+    "baseAmount": 43.0,
+    "exchangeRate": 0.9165,
+    "convertedAmount": 39.4095,
+    "date": "15-10-2024 12:07:50"
+  },
+  {
+    "baseCurrency": "CHF",
+    "quoteCurrency": "JPY",
+    "baseAmount": 23.0,
+    "exchangeRate": 173.6539,
+    "convertedAmount": 3994.0397,
+    "date": "15-10-2024 12:10:24"
+  },
+  {
+    "baseCurrency": "USD",
+    "quoteCurrency": "EUR",
+    "baseAmount": 45.0,
+    "exchangeRate": 0.9165,
+    "convertedAmount": 41.2425,
+    "date": "15-10-2024 13:46:49"
+  },
+  {
+    "baseCurrency": "USD",
+    "quoteCurrency": "EUR",
+    "baseAmount": 450.0,
+    "exchangeRate": 0.9165,
+    "convertedAmount": 412.425,
+    "date": "15-10-2024 13:47:12"
+  }
+]
