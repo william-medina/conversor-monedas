@@ -6,10 +6,6 @@ import com.williammedina.currencyconverter.model.CurrencyExchange;
 import com.williammedina.currencyconverter.services.ConversionsFileService;
 import com.williammedina.currencyconverter.services.CurrencyApiService;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
